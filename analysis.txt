@@ -1,0 +1,27 @@
+This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
+There are a total of 26 columns and 1259 entries in the dataset.
+
+We see that except the age column, all the columns are of object datatype.
+
+Data Cleaning:
+
+In dataset four columns has null values - state (515), self_employed (18), work_interfere (264), comments (1095)
+
+we will drop the timestamp column because it's contains date, month, year and time the respondent took this questionnaire, which is irrelevant for us.
+Comment column seems to contain most number ( 70% ) of null values, which makes sense because it was an optional text box so it's reasonable to expect that many (most) respondents would leave it blank.
+
+So, drop columns from datasets that are not useful. drop timestamp and comments and create new dataframe.
+
+The state column also contains a lot of null values. We'll not need that column also.
+we have state columns only for United states 
+
+Handle missing values in self_employed column and work_interfere column by filling null values.
+
+Create new_df and keep only relevent columns which are useful in our analysis.
+(Age, Gender, Country, remote_work, self_employed, tech_company, 
+phys_health_interview, mental_health_interview, mental_health_consequence, phys_health_consequence, family_history, treatment, benefits, wellness_program)
+
+Reason for selecting  these variables:
+Mentle illness is very relevent to person's age, gender and work. 
+Sometimes it depends on person's work, whether he/she is working in remotely or in workplace,whether he/she is self-employes or not, whether he/she working in tech-company or not.
+Family history also play major role in mentle disorder.
