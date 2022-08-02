@@ -25,3 +25,13 @@ Reason for selecting  these variables:
 Mentle illness is very relevent to person's age, gender and work. 
 Sometimes it depends on person's work, whether he/she is working in remotely or in workplace,whether he/she is self-employes or not, whether he/she working in tech-company or not.
 Family history also play major role in mentle disorder.
+
+Problems that I have encountered:
+Gender columns have so many categories so , I have grouped them into three categories like Male, Female and Other.
+
+Age column have some incorrect values so I dropped them and grouped remaining values into four categories - under 18, mid age , young age ,old age
+
+I consider Maybe as Yes in mentle and physical health columns because when respondents says maybe which means they have some symptoms of mental health illness.
+
+Most respondents are from United States, United Kingdom and Canada and others countries have less 50 repondents
+and some countires have 1 or 2 respondents that are not useful in for analysis.So, categorised counties in 5 different continents.
