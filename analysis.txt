@@ -35,3 +35,26 @@ I consider Maybe as Yes in mentle and physical health columns because when respo
 
 Most respondents are from United States, United Kingdom and Canada and others countries have less 50 repondents
 and some countires have 1 or 2 respondents that are not useful in for analysis.So, categorised counties in 5 different continents.
+
+
+
+Insights from Data Analysis:
+
+Survey conducted in total 48 counties. Most respondents are from United States, United Kingdom and Canada.
+
+People who are self employed and people who are not self employed they both need treatment.
+We can say that whether a person is self employed or not, does not largely affect whether he may be seeking mental treatment or not.
+
+We can say from our analysis, most predominent gender group from survey respondents are male, followed by Female and Other.
+
+Mental illness have found majorly in tech filed as most positive respondents are working in a tech company
+
+Around 70% of respondents don't work remotely, which means the biggest factor of mental health disorder came up triggered on the workplace.
+wheather people are working in tech and non-tech company, both need treatment.
+
+Most of the respondants employers haven't discussed mental health as a employee wellness program.
+Companies should include mental health in the employee wellness program.This shouldn't be overlooked
+
+Most respondents do not have family history but they need treatments. 
+
+In United States more people seeking for treatment compare to other nations.
