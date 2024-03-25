@@ -53,12 +53,9 @@ wheather people are working in tech and non-tech company, both need treatment.
 Most of the respondants employers haven't discussed mental health as a employee wellness program.
 Companies should include mental health in the employee wellness program.This shouldn't be overlooked
 
-Most respondents do not have family history but they need treatments. 
+Most respondents do not have family history but they need treatments. In United States more people seeking for treatment compare to other nations.
 
-In United States more people seeking for treatment compare to other nations.
-
-
-How does the frequency of mental health illness and attitudes towards mental health vary by geographic location:
+**How does the frequency of mental health illness and attitudes towards mental health vary by geographic location:**
 
 Mental health illness effects diffenrently in different geographic location. Most people are having mental illness and seeking for treatment is in United States,but in European 
 country and Asian country most respondents do not need treatment for mental health illness. In Oceania  and African countries most people have mental illness and seeking treatment  for mental helath illness 
